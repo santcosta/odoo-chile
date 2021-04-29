@@ -1,0 +1,4 @@
+[submodule "l10n_cl_fe"]
+	path = l10n_cl_fe
+	url = https://gitlab.com/dansanti/l10n_cl_fe
+	branch = 11.0
