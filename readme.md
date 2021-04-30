@@ -7,6 +7,9 @@
 - Añadir submodulos
     - git submodule add -b (branchRepo) (dirRepo)
 
+- Actualizar todos los submodulos
+    - git submodule update --remote (Indicar submodulo para que el comando sea mas rapido.)
+
 # Factura electronica chile
 
 En teoria los modulos que hay para la version 11.0 de odoo funcionan para realizar FE.
