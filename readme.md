@@ -1,3 +1,12 @@
+### Manejo de git submodules (basico)
+
+- Clonar repo
+
+    - git clone --recursive https://github.com/santcosta/odoo-chile
+
+- Añadir submodulos
+    - git submodule add -b (branchRepo) (dirRepo)
+
 # Factura electronica chile
 
 En teoria los modulos que hay para la version 11.0 de odoo funcionan para realizar FE.
