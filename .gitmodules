@@ -18,3 +18,7 @@
 	path = l10n_cl_dte_point_of_sale
 	url = https://gitlab.com/dansanti/l10n_cl_dte_point_of_sale
 	branch = 11.0
+[submodule "l10n_cl_stock_picking"]
+	path = l10n_cl_stock_picking
+	url = https://gitlab.com/dansanti/l10n_cl_stock_picking
+	branch = 11.0
