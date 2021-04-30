@@ -10,3 +10,7 @@
 	path = l10n_cl_dte_exportacion
 	url = https://gitlab.com/dansanti/l10n_cl_dte_exportacion
 	branch = 11.0
+[submodule "l10n_cl_dte_factoring"]
+	path = l10n_cl_dte_factoring
+	url = https://gitlab.com/dansanti/l10n_cl_dte_factoring
+	branch = 11.0
