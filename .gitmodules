@@ -1,24 +1,8 @@
 [submodule "l10n_cl_fe"]
 	path = l10n_cl_fe
 	url = https://gitlab.com/dansanti/l10n_cl_fe
-	branch = 11.0
+	branch = 13.0
 [submodule "addons-konos"]
 	path = addons-konos
 	url = https://github.com/KonosCL/addons-konos
-	branch = 11.0
-[submodule "l10n_cl_dte_exportacion"]
-	path = l10n_cl_dte_exportacion
-	url = https://gitlab.com/dansanti/l10n_cl_dte_exportacion
-	branch = 11.0
-[submodule "l10n_cl_dte_factoring"]
-	path = l10n_cl_dte_factoring
-	url = https://gitlab.com/dansanti/l10n_cl_dte_factoring
-	branch = 11.0
-[submodule "l10n_cl_dte_point_of_sale"]
-	path = l10n_cl_dte_point_of_sale
-	url = https://gitlab.com/dansanti/l10n_cl_dte_point_of_sale
-	branch = 11.0
-[submodule "l10n_cl_stock_picking"]
-	path = l10n_cl_stock_picking
-	url = https://gitlab.com/dansanti/l10n_cl_stock_picking
-	branch = 11.0
+	branch = 13.0

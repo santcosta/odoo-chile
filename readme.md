@@ -9,6 +9,8 @@
 
 - Actualizar todos los submodulos
     - git submodule update --remote (Indicar submodulo para que el comando sea mas rapido.)
+- Eliminar submodulos (Mas que nada para cuando en distintos branch manejas diferentes repos o ya no existen. Recordar modificar el .gitmodules)
+    - git rm -r (nombreSubModulo)
 
 # Factura electronica chile
 
